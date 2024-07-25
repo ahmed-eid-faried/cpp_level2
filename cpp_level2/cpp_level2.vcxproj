@@ -148,6 +148,7 @@
     <ClInclude Include="32_vectors_functions.h" />
     <ClInclude Include="33_by_ref.h" />
     <ClInclude Include="34_pointers.h" />
+    <ClInclude Include="39_swap_by_pointer.h" />
     <ClInclude Include="bitwise_operator.h" />
     <ClInclude Include="debug_example.h" />
     <ClInclude Include="declaration_defination.h" />

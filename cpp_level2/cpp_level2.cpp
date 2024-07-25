@@ -24,6 +24,7 @@
 #include "32_vectors_functions.h"
 #include "33_by_ref.h"
 #include "34_pointers.h"
+#include "39_swap_by_pointer.h"
 int main()
 {
 	//DebugExample();
@@ -50,5 +51,6 @@ int main()
 	//RemoveVectors();
 	//VectorsFuns();
 	//ByRef();
-	Pointers();
+	//Pointers();
+	SwapByPointer();
 }

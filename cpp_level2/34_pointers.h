@@ -7,7 +7,7 @@ void Pointers() {
 	int x = 10;
 	int  y = 30;
 	int& z = x;
-	//&z = y;//wrong ===>> ref for one var (not change it) but pointer can change it
+	//&z = y;//wrong ===>> ref for one var (not change it in run time) but pointer can change it in run time
 
 	//int* p = x;error
 	int* p = &x;

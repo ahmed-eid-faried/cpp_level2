@@ -98,5 +98,8 @@
     <ClInclude Include="34_pointers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="39_swap_by_pointer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
