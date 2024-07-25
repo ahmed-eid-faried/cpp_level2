@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cpp_level2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="21_automatic_varabile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="16overloading.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="17_call_stack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="18_tips.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="19_recursion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="20_static_varabile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="22_format_intger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="23_format_float.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="24_string_format.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25_setw_manipulator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bitwise_operator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="debug_example.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="declaration_defination.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="default_parameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="format_float.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ranged_loop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="short_hand_if.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="validation_number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
