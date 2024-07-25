@@ -23,6 +23,7 @@
 #include "31_vectors_remove.h"
 #include "32_vectors_functions.h"
 #include "33_by_ref.h"
+#include "34_pointers.h"
 int main()
 {
 	//DebugExample();
@@ -48,5 +49,6 @@ int main()
 	//VectorOfStrucure();
 	//RemoveVectors();
 	//VectorsFuns();
-	ByRef();
+	//ByRef();
+	Pointers();
 }

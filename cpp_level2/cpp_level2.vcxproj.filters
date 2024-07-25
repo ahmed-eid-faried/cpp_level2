@@ -95,5 +95,8 @@
     <ClInclude Include="33_by_ref.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="34_pointers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
