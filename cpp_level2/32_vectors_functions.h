@@ -10,8 +10,8 @@ void PrintVector1(vector <int>& Numbers) {
 		cout << " ";
 	}
 	cout << "\n======================================" << endl;
-} 
-void RemoveVectors() {
+}
+void VectorsFuns() {
 	vector <int> Numbers = { 1,2,3,4,5,6,7,8,9,10 };
 
 	PrintVector1(Numbers);
@@ -19,11 +19,19 @@ void RemoveVectors() {
 	cout << "last element in Numbers \t==>> " << Numbers.back() << endl;
 	cout << "size of Numbers \t==>> " << Numbers.size() << endl;
 	cout << "capacity of Numbers \t==>> " << Numbers.capacity() << endl;
-	cout << "clear of Numbers \t==>> " << endl;
+	cout << "IsEmpty ==> Numbers \t==>> " << Numbers.empty() << endl;
+	Numbers.pop_back();
+	cout << "After remove item" << endl;
+	cout << "size of Numbers \t==>> " << Numbers.size() << endl;
+	cout << "capacity of Numbers \t==>> " << Numbers.capacity() << endl;
+	cout << "IsEmpty ==> Numbers \t==>> " << Numbers.empty() << endl;
+	cout << "After clear " << endl;
 	Numbers.clear();
+	cout << "size of Numbers \t==>> " << Numbers.size() << endl;
+	cout << "capacity of Numbers \t==>> " << Numbers.capacity() << endl;
 	cout << "IsEmpty ==> Numbers \t==>> " << Numbers.empty() << endl;
 	PrintVector1(Numbers);
 
- 
+
 
 }
