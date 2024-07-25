@@ -74,5 +74,8 @@
     <ClInclude Include="validation_number.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="27_two_dimensional_arrays.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
