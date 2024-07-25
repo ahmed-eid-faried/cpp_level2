@@ -33,9 +33,12 @@ void RemoveVectors() {
 	vector <int> Numbers3 = { 1,2,3,4,5,6,7,8,9,10 };
 
 	RemoveVector(Numbers1, "Numbers1", 3);
-	cout << "&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&" << endl;
+	cout << "#####################################################" << endl;
 	RemoveVector(Numbers2, "Numbers2", 12);
-	cout << "&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&" << endl;
-	RemoveVector(Numbers3, "Numbers3", 12);
+	cout << "#######################before Clear#######################" << endl;
+	PrintVector(Numbers3);
+	Numbers3.clear();
+	cout << "#######################After Clear#######################" << endl;
+	PrintVector(Numbers3);
 
 }

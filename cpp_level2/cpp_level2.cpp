@@ -21,6 +21,7 @@
 #include "29_add_element_vectors.h"
 #include "30_vector_of_structure.h"
 #include "31_vectors_remove.h"
+#include "32_vectors_functions.h"
 int main()
 {
 	//DebugExample();
@@ -44,5 +45,6 @@ int main()
 	//VectorsFun();
 	//AddElementsToVectors();
 	//VectorOfStrucure();
-	RemoveVectors();
+	//RemoveVectors();
+	VectorsFuns();
 }
