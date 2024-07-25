@@ -77,5 +77,8 @@
     <ClInclude Include="27_two_dimensional_arrays.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="28_vectors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

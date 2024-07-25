@@ -17,6 +17,7 @@
 #include "24_string_format.h"
 #include "25_setw_manipulator.h"
 #include "27_two_dimensional_arrays.h"
+#include "28_vectors.h"
 int main()
 {
 	//DebugExample();
@@ -36,5 +37,6 @@ int main()
 	 //FormatFloat();
 	//StringFormat();
 	//SetwManipulator();
-	TwoDimensionalArrays();
+	//TwoDimensionalArrays();
+	VectorsFun();
 }

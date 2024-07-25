@@ -141,6 +141,7 @@
     <ClInclude Include="24_string_format.h" />
     <ClInclude Include="25_setw_manipulator.h" />
     <ClInclude Include="27_two_dimensional_arrays.h" />
+    <ClInclude Include="28_vectors.h" />
     <ClInclude Include="bitwise_operator.h" />
     <ClInclude Include="debug_example.h" />
     <ClInclude Include="declaration_defination.h" />
