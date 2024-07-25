@@ -6,6 +6,9 @@ using namespace std;
 void Pointers() {
 	int x = 10;
 	int  y = 30;
+	int& z = x;
+	//&z = y;//wrong ===>> ref for one var (not change it) but pointer can change it
+
 	//int* p = x;error
 	int* p = &x;
 	cout << "ADDRESS X ==>>  " << &x << endl;
@@ -17,10 +20,10 @@ void Pointers() {
 	cout << "VALUE OF pointer FOR X ==>>  " << p << endl;
 	cout << "ADDRESS OF pointer FOR X ==>>  " << &p << endl;
 	cout << "===============================" << endl;
-	p = &y;
+	p = &y;//don't use *p = &y;
 	cout << "VALUE OF pointer FOR Y ==>>  " << p << endl;
 	cout << "ADDRESS OF pointer FOR Y ==>>  " << &p << endl;
-	cout << "===============================" << endl;
+	cout << "================derefrances===============" << endl;
 	cout << "VALUE Y by y ==>>  " << y << endl;
 	cout << "VALUE Y by *p ==>>  " << *p << endl;
 	cout << "=============== y=20 by y ================" << endl;
@@ -28,7 +31,7 @@ void Pointers() {
 	cout << "VALUE Y by y ==>>  " << y << endl;
 	cout << "VALUE Y by pointer ==>>  " << *p << endl;
 	cout << "=============== y=15 by *p ================" << endl;
-	*p = 15;
+	*p = 15;//don't use p=15;
 	cout << "VALUE Y by y ==>>  " << y << endl;
 	cout << "VALUE Y by pointer ==>>  " << *p << endl;
 
