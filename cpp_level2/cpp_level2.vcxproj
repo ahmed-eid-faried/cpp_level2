@@ -142,6 +142,9 @@
     <ClInclude Include="25_setw_manipulator.h" />
     <ClInclude Include="27_two_dimensional_arrays.h" />
     <ClInclude Include="28_vectors.h" />
+    <ClInclude Include="29_add_element_vectors.h" />
+    <ClInclude Include="30_vector_of_structure.h" />
+    <ClInclude Include="31_vectors_remove.h" />
     <ClInclude Include="bitwise_operator.h" />
     <ClInclude Include="debug_example.h" />
     <ClInclude Include="declaration_defination.h" />

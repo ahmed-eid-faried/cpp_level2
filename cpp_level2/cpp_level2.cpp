@@ -18,6 +18,9 @@
 #include "25_setw_manipulator.h"
 #include "27_two_dimensional_arrays.h"
 #include "28_vectors.h"
+#include "29_add_element_vectors.h"
+#include "30_vector_of_structure.h"
+#include "31_vectors_remove.h"
 int main()
 {
 	//DebugExample();
@@ -38,5 +41,8 @@ int main()
 	//StringFormat();
 	//SetwManipulator();
 	//TwoDimensionalArrays();
-	VectorsFun();
+	//VectorsFun();
+	//AddElementsToVectors();
+	//VectorOfStrucure();
+	RemoveVectors();
 }

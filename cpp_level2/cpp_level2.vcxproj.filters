@@ -80,5 +80,14 @@
     <ClInclude Include="28_vectors.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="29_add_element_vectors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="30_vector_of_structure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="31_vectors_remove.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
