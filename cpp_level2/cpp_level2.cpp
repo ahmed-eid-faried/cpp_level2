@@ -22,6 +22,7 @@
 #include "30_vector_of_structure.h"
 #include "31_vectors_remove.h"
 #include "32_vectors_functions.h"
+#include "33_by_ref.h"
 int main()
 {
 	//DebugExample();
@@ -46,5 +47,6 @@ int main()
 	//AddElementsToVectors();
 	//VectorOfStrucure();
 	//RemoveVectors();
-	VectorsFuns();
+	//VectorsFuns();
+	ByRef();
 }

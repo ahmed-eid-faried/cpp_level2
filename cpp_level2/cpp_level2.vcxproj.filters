@@ -92,5 +92,8 @@
     <ClInclude Include="32_vectors_functions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="33_by_ref.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
