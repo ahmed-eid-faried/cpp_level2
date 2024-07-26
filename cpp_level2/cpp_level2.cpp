@@ -37,6 +37,7 @@
 #include "60_localtime_structure.h"
 #include "52_write_mode_write_data_to_file.h"
 #include "53_append_mode_append_data_to_file.h"
+#include "54_read_mode_print_file_content.h"
 int main()
 {
 	//DebugExample();
@@ -74,9 +75,9 @@ int main()
 	//StringFunctions();
 	//SomeCCTYPEFunctions();
 	//WriteModeWriteDataToFile();
-	AppendModeAppendDataToFile();
+	//AppendModeAppendDataToFile();
 
-
+	ReadModePrintFileContent();
 
 
 

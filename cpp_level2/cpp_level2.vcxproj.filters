@@ -140,5 +140,8 @@
     <ClInclude Include="53_append_mode_append_data_to_file.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="54_read_mode_print_file_content.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
