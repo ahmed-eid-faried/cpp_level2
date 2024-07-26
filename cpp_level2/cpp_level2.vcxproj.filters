@@ -113,7 +113,7 @@
     <ClInclude Include="43_dynamic_memory_allocation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="44_dynamic_arrays.H">
+    <ClInclude Include="44_dynamic_arrays.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="46_47_48_vectors_iterator.h">
@@ -125,7 +125,10 @@
     <ClInclude Include="50_string_functions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="51_some_cctype_functions.H">
+    <ClInclude Include="51_some_cctype_functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="59_datetime_local_utc_time.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

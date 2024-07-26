@@ -33,6 +33,7 @@
 #include "49_error_handling.h"
 #include "50_string_functions.h"
 #include "51_some_cctype_functions.H"
+#include "59_datetime_local_utc_time.h"
 int main()
 {
 	//DebugExample();
@@ -68,5 +69,6 @@ int main()
 	//VectorIterator();
 	//ErrorHanding();
 	//StringFunctions();
-	SomeCCTYPEFunctions();
+	//SomeCCTYPEFunctions();
+	DatetimeLocalUtcTime();
 }

@@ -22,4 +22,4 @@ void SomeCCTYPEFunctions() {
     cout << "isdigit ('2') ==>> " << (isdigit('2') ? "true" : "false") << endl;
     cout << "ispunct (#) ==>> " << (ispunct('#') ? "true" : "false") << endl;
     cout << "ispunct (a) ==>> " << (ispunct('a') ? "true" : "false") << endl;
-}
+} 

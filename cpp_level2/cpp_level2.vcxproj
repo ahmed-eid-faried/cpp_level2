@@ -153,11 +153,12 @@
     <ClInclude Include="41_poniter_structure.h" />
     <ClInclude Include="42_void_poniter.h" />
     <ClInclude Include="43_dynamic_memory_allocation.h" />
-    <ClInclude Include="44_dynamic_arrays.H" />
+    <ClInclude Include="44_dynamic_arrays.h" />
     <ClInclude Include="46_47_48_vectors_iterator.h" />
     <ClInclude Include="49_error_handling.h" />
     <ClInclude Include="50_string_functions.h" />
-    <ClInclude Include="51_some_cctype_functions.H" />
+    <ClInclude Include="51_some_cctype_functions.h" />
+    <ClInclude Include="59_datetime_local_utc_time.h" />
     <ClInclude Include="bitwise_operator.h" />
     <ClInclude Include="debug_example.h" />
     <ClInclude Include="declaration_defination.h" />
