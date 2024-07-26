@@ -32,6 +32,7 @@
 #include "46_47_48_vectors_iterator.h"
 #include "49_error_handling.h"
 #include "50_string_functions.h"
+#include "51_some_cctype_functions.H"
 int main()
 {
 	//DebugExample();
@@ -66,5 +67,6 @@ int main()
 	//DynamicArrays();
 	//VectorIterator();
 	//ErrorHanding();
-	StringFunctions();
+	//StringFunctions();
+	SomeCCTYPEFunctions();
 }

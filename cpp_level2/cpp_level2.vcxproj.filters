@@ -125,5 +125,8 @@
     <ClInclude Include="50_string_functions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="51_some_cctype_functions.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

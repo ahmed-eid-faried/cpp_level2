@@ -22,3 +22,4 @@ void StringFunctions() {
 	cout << "=========== substr ===========" << endl;
 	cout << name.substr(6, 3) << endl;
 }
+ 
