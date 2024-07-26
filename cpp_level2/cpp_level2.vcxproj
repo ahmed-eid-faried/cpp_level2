@@ -158,7 +158,9 @@
     <ClInclude Include="49_error_handling.h" />
     <ClInclude Include="50_string_functions.h" />
     <ClInclude Include="51_some_cctype_functions.h" />
+    <ClInclude Include="52_write_mode_write_data_to_file.h" />
     <ClInclude Include="59_datetime_local_utc_time.h" />
+    <ClInclude Include="60_localtime_structure.h" />
     <ClInclude Include="bitwise_operator.h" />
     <ClInclude Include="debug_example.h" />
     <ClInclude Include="declaration_defination.h" />

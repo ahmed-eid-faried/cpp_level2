@@ -34,6 +34,8 @@
 #include "50_string_functions.h"
 #include "51_some_cctype_functions.H"
 #include "59_datetime_local_utc_time.h"
+#include "60_localtime_structure.h"
+#include "52_write_mode_write_data_to_file.h"
 int main()
 {
 	//DebugExample();
@@ -70,5 +72,16 @@ int main()
 	//ErrorHanding();
 	//StringFunctions();
 	//SomeCCTYPEFunctions();
-	DatetimeLocalUtcTime();
+	WriteModeWriteDataToFile();
+
+
+
+
+
+
+
+
+	//DatetimeLocalUtcTime();
+	//LocaltimeStructure();
+	return 0;
 }
