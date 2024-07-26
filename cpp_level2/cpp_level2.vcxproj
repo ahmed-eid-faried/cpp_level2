@@ -163,6 +163,8 @@
     <ClInclude Include="54_read_mode_print_file_content.h" />
     <ClInclude Include="55_load_data_from_file_to_vector.h" />
     <ClInclude Include="56_save_vector_to_file.h" />
+    <ClInclude Include="57_delete_record_from_file.h" />
+    <ClInclude Include="58_update_record_in_file.h" />
     <ClInclude Include="59_datetime_local_utc_time.h" />
     <ClInclude Include="60_localtime_structure.h" />
     <ClInclude Include="bitwise_operator.h" />

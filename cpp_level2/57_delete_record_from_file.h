@@ -21,7 +21,7 @@ void DeleteRecordFromFileEx() {
 
 	cout << "File Content Before Delete.\n";
 	ReadFileContent("file.txt");
-	DeleteRecordFromFile("file.txt", "Ali");
+	DeleteRecordFromFile("file.txt", "ALI");
 	cout << "\n\nFile Content After Delete.\n";
 	ReadFileContent("file.txt");
 }

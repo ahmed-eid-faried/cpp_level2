@@ -40,6 +40,8 @@
 #include "54_read_mode_print_file_content.h"
 #include "55_load_data_from_file_to_vector.h"
 #include "56_save_vector_to_file.h"
+#include "57_delete_record_from_file.h"
+#include "58_update_record_in_file.h"
 int main()
 {
 	//DebugExample();
@@ -81,8 +83,9 @@ int main()
 
 	//ReadModePrintFileContent();
 	//LoadDataFromFileToVector();
-	SaveVectorToFileEx();
-
+	//SaveVectorToFileEx();
+	//DeleteRecordFromFileEx();
+	UpdateRecordInFileEx();
 
 
 	//DatetimeLocalUtcTime();

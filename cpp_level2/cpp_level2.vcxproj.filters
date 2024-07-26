@@ -149,5 +149,11 @@
     <ClInclude Include="56_save_vector_to_file.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="57_delete_record_from_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="58_update_record_in_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
