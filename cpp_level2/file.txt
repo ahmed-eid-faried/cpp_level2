@@ -1,3 +1,0 @@
-MY FristName is Ahmed
-MY LastName is Mady
-MY Salary is 222222

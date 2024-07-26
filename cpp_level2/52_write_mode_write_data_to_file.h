@@ -14,16 +14,16 @@ void WriteModeWriteDataToFile() {
 	}
 
 
-	fstream MyFile2;
-	MyFile2.open("file2.cpp", ios::out);
-	MyFile2 << "#include <iostream>" << endl;
-	MyFile2 << "using namespace std;" << endl;
-	MyFile2 << "int main()" << endl;
-	MyFile2 << "{" << endl;
-	MyFile2 << "cout << \"Hi, Ahmed\"  << endl;" << endl;
-	MyFile2 << "return 0;" << endl;
-	MyFile2 << "}" << endl;
+ 	MyFile.open("file.cpp", ios::out);
+	MyFile << "#include <iostream>" << endl;
+	MyFile << "using namespace std;" << endl;
+	MyFile << "int main()" << endl;
+	MyFile << "{" << endl;
+	MyFile << "cout << \"Hi, Ahmed\"  << endl;" << endl;
+	MyFile << "return 0;" << endl;
+	MyFile << "}" << endl;
 	MyFile.close();
 
 }
 
+ 

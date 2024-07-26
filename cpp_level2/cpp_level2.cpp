@@ -36,6 +36,7 @@
 #include "59_datetime_local_utc_time.h"
 #include "60_localtime_structure.h"
 #include "52_write_mode_write_data_to_file.h"
+#include "53_append_mode_append_data_to_file.h"
 int main()
 {
 	//DebugExample();
@@ -72,9 +73,8 @@ int main()
 	//ErrorHanding();
 	//StringFunctions();
 	//SomeCCTYPEFunctions();
-	WriteModeWriteDataToFile();
-
-
+	//WriteModeWriteDataToFile();
+	AppendModeAppendDataToFile();
 
 
 

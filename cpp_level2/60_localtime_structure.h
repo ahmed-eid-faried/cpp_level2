@@ -16,7 +16,7 @@ using namespace std;
 void LocaltimeStructure() {
 	time_t t = time(0);   // get time now
 	tm* now = localtime(&t);
-		cout << "Year: " << now->tm_year + 1900 << endl;
+	cout << "Year: " << now->tm_year + 1900 << endl;
 	cout << "Month: " << now->tm_mon + 1 << endl;
 	cout << "Day: " << now->tm_mday << endl;
 	cout << "Hour: " << now->tm_hour << endl;

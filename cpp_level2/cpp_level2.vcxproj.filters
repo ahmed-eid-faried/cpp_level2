@@ -137,5 +137,8 @@
     <ClInclude Include="52_write_mode_write_data_to_file.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="53_append_mode_append_data_to_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
