@@ -101,5 +101,20 @@
     <ClInclude Include="39_swap_by_pointer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="40_poniter_array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="41_poniter_structure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="42_void_poniter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="43_dynamic_memory_allocation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="44_dynamic_arrays.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -25,6 +25,10 @@
 #include "33_by_ref.h"
 #include "34_pointers.h"
 #include "39_swap_by_pointer.h"
+#include "40_poniter_array.h"
+#include "41_poniter_structure.h"
+#include "43_dynamic_memory_allocation.h"
+#include "44_dynamic_arrays.H"
 int main()
 {
 	//DebugExample();
@@ -52,5 +56,9 @@ int main()
 	//VectorsFuns();
 	//ByRef();
 	//Pointers();
-	SwapByPointer();
+	//SwapByPointer();
+	//PoniterArray();
+	//PoniterStrucure();
+	//DynamicMemoryAllocation();
+	DynamicArrays();
 }

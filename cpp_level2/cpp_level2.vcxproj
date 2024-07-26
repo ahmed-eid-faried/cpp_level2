@@ -149,6 +149,11 @@
     <ClInclude Include="33_by_ref.h" />
     <ClInclude Include="34_pointers.h" />
     <ClInclude Include="39_swap_by_pointer.h" />
+    <ClInclude Include="40_poniter_array.h" />
+    <ClInclude Include="41_poniter_structure.h" />
+    <ClInclude Include="42_void_poniter.h" />
+    <ClInclude Include="43_dynamic_memory_allocation.h" />
+    <ClInclude Include="44_dynamic_arrays.H" />
     <ClInclude Include="bitwise_operator.h" />
     <ClInclude Include="debug_example.h" />
     <ClInclude Include="declaration_defination.h" />
