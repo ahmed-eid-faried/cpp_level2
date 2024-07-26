@@ -119,5 +119,11 @@
     <ClInclude Include="46_47_48_vectors_iterator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="49_error_handling.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="50_string_functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

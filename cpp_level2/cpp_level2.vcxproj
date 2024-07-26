@@ -155,6 +155,8 @@
     <ClInclude Include="43_dynamic_memory_allocation.h" />
     <ClInclude Include="44_dynamic_arrays.H" />
     <ClInclude Include="46_47_48_vectors_iterator.h" />
+    <ClInclude Include="49_error_handling.h" />
+    <ClInclude Include="50_string_functions.h" />
     <ClInclude Include="bitwise_operator.h" />
     <ClInclude Include="debug_example.h" />
     <ClInclude Include="declaration_defination.h" />

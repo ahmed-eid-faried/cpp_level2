@@ -30,6 +30,8 @@
 #include "43_dynamic_memory_allocation.h"
 #include "44_dynamic_arrays.H"
 #include "46_47_48_vectors_iterator.h"
+#include "49_error_handling.h"
+#include "50_string_functions.h"
 int main()
 {
 	//DebugExample();
@@ -62,5 +64,7 @@ int main()
 	//PoniterStrucure();
 	//DynamicMemoryAllocation();
 	//DynamicArrays();
-	VectorIterator();
+	//VectorIterator();
+	//ErrorHanding();
+	StringFunctions();
 }
