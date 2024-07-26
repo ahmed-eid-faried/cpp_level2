@@ -143,5 +143,11 @@
     <ClInclude Include="54_read_mode_print_file_content.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="55_load_data_from_file_to_vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="56_save_vector_to_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

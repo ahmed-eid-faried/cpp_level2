@@ -26,3 +26,6 @@ void ReadModePrintFileContent() {
 	ReadFileContent("file2.cpp");
 
 }
+
+
+ 

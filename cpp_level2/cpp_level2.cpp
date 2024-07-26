@@ -38,6 +38,8 @@
 #include "52_write_mode_write_data_to_file.h"
 #include "53_append_mode_append_data_to_file.h"
 #include "54_read_mode_print_file_content.h"
+#include "55_load_data_from_file_to_vector.h"
+#include "56_save_vector_to_file.h"
 int main()
 {
 	//DebugExample();
@@ -77,8 +79,9 @@ int main()
 	//WriteModeWriteDataToFile();
 	//AppendModeAppendDataToFile();
 
-	ReadModePrintFileContent();
-
+	//ReadModePrintFileContent();
+	//LoadDataFromFileToVector();
+	SaveVectorToFileEx();
 
 
 
