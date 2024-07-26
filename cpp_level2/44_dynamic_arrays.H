@@ -19,9 +19,6 @@ void DynamicArrays() {
 	cout << "Enter Number Of Student: ";
 	cin >> Num;
 
-
-
-
 	float* ptr;
 	ptr = new float[Num];
 	ReadStudents(Num, ptr);

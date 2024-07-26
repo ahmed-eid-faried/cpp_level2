@@ -29,6 +29,7 @@
 #include "41_poniter_structure.h"
 #include "43_dynamic_memory_allocation.h"
 #include "44_dynamic_arrays.H"
+#include "46_47_48_vectors_iterator.h"
 int main()
 {
 	//DebugExample();
@@ -60,5 +61,6 @@ int main()
 	//PoniterArray();
 	//PoniterStrucure();
 	//DynamicMemoryAllocation();
-	DynamicArrays();
+	//DynamicArrays();
+	VectorIterator();
 }

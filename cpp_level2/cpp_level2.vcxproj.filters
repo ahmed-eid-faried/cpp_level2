@@ -116,5 +116,8 @@
     <ClInclude Include="44_dynamic_arrays.H">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="46_47_48_vectors_iterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
