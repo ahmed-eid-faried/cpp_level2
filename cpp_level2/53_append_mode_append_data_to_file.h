@@ -5,7 +5,8 @@ using namespace std;
 
 void AppendModeAppendDataToFile() {
 	fstream MyFile;
-	MyFile.open("file3.txt", ios::out|ios::app);//append Mode  
+	MyFile.open("file3.txt", ios::out|ios::app);
+	//append Mode  
 	/// áæ ãæÌæÏ ÈíÖíİ Úáíå æ áæ ãÔ ãæÌæÏ ÈíäÔì ãä ÇáÇæá
 	if (MyFile.is_open()) {
 		MyFile << "MY FristName is Ahmed\n";

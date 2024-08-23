@@ -155,5 +155,11 @@
     <ClInclude Include="58_update_record_in_file.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TempleteFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TempleteClasses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
